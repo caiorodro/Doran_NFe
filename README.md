@@ -7,3 +7,4 @@ A base de dados modelo estão nos arquivos "Doran.mdf" e "Doran.ldf"
 
 É possível integrar qualquer sistema para a emissão de notas fiscais eletrônicas.
 
+A comunicação com os webservices da SEFAZ é feita através da biblioteca Flexdocs "NFE_Util".
